@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tabbs y App bar</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string-array name="llamadas">
+        <item>Papa</item>
+        <item>Casian</item>
+        <item>Casian</item>
+        <item>Casian otra vez</item>
+        <item>Casian , que pesado....</item>
+        <item>Ibai</item>
+        <item>Ali</item>
+    </string-array>
+    <string-array name="chats">
+        <item>chat 1</item>
+        <item>chat 2</item>
+        <item>chat 3</item>
+        <item>chat 4</item>
+    </string-array>
+    <string-array name="contactos">
+        <item>Casian</item>
+        <item>Ibai</item>
+        <item>Ali</item>
+        <item>Aitor</item>
+        <item>Suegra</item>
+    </string-array>
+</resources>
